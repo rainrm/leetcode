@@ -9,6 +9,6 @@ public class TestGit {
         System.out.println("hello master1");
         System.out.println("hello hot-fix1");
         System.out.println("idea push test");
-        System.out.println("idea pull test");
+        System.out.println("idea pull test1212121");
     }
 }
